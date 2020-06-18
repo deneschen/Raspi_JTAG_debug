@@ -1,4 +1,4 @@
-#Raspi3 Raspi4 jtag debug
+# Raspi3 Raspi4 jtag debug
 
 40-pin gpio connect
 
@@ -16,3 +16,7 @@ connect following gpio pin to jlink pin.
 |GPIO27 | ARM_TMS |
 |GPIO01 | Vref |
 |GPIO09 | GND |
+
+--------------------------------------------
+# Download pre-built OpenOCD for Windows
+https://gnutoolchains.com/arm-eabi/openocd/
